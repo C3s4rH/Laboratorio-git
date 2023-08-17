@@ -1,13 +1,13 @@
 # Laboratorio-git
-Cesar 
+Nombre: Cesar Hernandez 
 
-## cambios en repo remoto 
+## cambios en repositorio desde remoto 
 
-# Gituhub
+# Introducción
+### 1. Que es Github
+### 2. Gituhub
 ![Github logo](/imagenes/Github.jpeg)
-
+### 3. Como funciona Github
+### 4. 
 ## References
 .[Markdown Guide](https://www.markdownguide.org/getting-started/)
-## Proceso de comandos 
-
-### Desarrollo creativo
